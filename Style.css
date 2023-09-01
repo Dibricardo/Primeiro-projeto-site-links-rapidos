@@ -1,0 +1,33 @@
+body {
+    background: rgb(163, 97, 97);
+}
+
+.img-google {
+    
+    width: 450px;
+    height: 120px;
+}
+.img-correio {
+    width: 450px;
+    height: 100px;
+}
+.img-linkedin {
+    width: 450px;
+    height: 145px;
+}
+.img-what {
+    width: 450px;
+    height: 150px;
+}
+.img-terra{
+    width: 450px;
+    height: 145px;
+}
+h1{
+    text-align: center;
+    color: white;
+}   
+h2{
+    text-align: center;
+    color: white;
+}
